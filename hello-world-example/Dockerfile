@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . .
 
-CMD ./mvnm spring-boot:run
+CMD ./mvnw spring-boot:run
